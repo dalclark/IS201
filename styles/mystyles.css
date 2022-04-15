@@ -1,0 +1,39 @@
+
+
+body{
+    background-color: aliceblue;
+}
+
+
+
+
+
+.colorado{
+    text-align: center;
+    color: rgb(43, 70, 151);
+
+}
+
+.video{
+    align-content: center;
+}
+
+.resume{
+    text-align: center;
+    color: rgb(43, 70, 151);
+}
+
+.about{
+    color: rgb(123, 191, 214);
+    text-decoration: underline;
+}
+
+.contact{
+    text-align: center;
+    color:grey
+}
+
+.link{
+    color: blue;
+    text-align: center;
+}
