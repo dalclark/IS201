@@ -1,11 +1,29 @@
-ul {
+.navigation {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    width:100%
+  }
+
+    .tableau{
+      background-color: rgb(216, 213, 213);
+      width:100%
   }
   
+  .footer{
+      bottom:20px;
+      height:10px;
+      left:5px;
+      right:5px;
+      font-size: 20px;
+      text-align: center;
+      position: fixed;
+      color: rgb(177, 176, 176);
+      width:100%
+  }
+
   li {
     float: left;
   }
@@ -20,4 +38,29 @@ ul {
   
   li a:hover {
     background-color: #111;
+  }
+
+
+
+
+  .tab{
+      margin-top: 20px;
+    height: 100px;
+      width: 1000px;;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 400px;
+  }
+  .centertext{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+   font-style: italic;
+   
   }

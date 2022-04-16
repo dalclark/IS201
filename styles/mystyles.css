@@ -6,26 +6,49 @@ body{
 
 
 
-
-
-.colorado{
-    text-align: center;
-    color: rgb(43, 70, 151);
-
-}
+.solid {
+    border-top: 3px solid #bbb;
+  }
 
 .video{
-    align-content: center;
+    width: 500px;
+    height:400px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-.resume{
+.subtitle{
+    color: rgb(123, 191, 214);
     text-align: center;
-    color: rgb(43, 70, 151);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.famphoto{
+    height: 400px;
+    width:300px;
+}
+.lincolnphoto{
+    height: 400px;
+    width:700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.aboutphoto{
+    margin-left: 100px;
+    height: 400px;
+    width:600px;
 }
 
 .about{
     color: rgb(123, 191, 214);
     text-decoration: underline;
+}
+
+.aboutme{
+    
+    color: lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .contact{
@@ -35,5 +58,5 @@ body{
 
 .link{
     color: blue;
-    text-align: center;
 }
+
